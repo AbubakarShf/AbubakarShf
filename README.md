@@ -12,4 +12,4 @@
 
 ---
 
-### I am AbubakarShf. I am a third-year undergraduate student at National Textile University. I am an aspiring Junior Junior web Developer at EESTONE. My other interests aside from web Dev are Backend Development, DevOps and Flutter.
+### I am AbubakarShf. I am a third-year undergraduate student at National Textile University. I am an aspiring Junior web Developer at EESTONE and also a freelancer at [fiverr](https://www.fiverr.com/users/abubakarshf/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
