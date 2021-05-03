@@ -1,20 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-# Hello, I am AbubakarShf
+# I'm AbubakarShf - aka HalfProgrammer😉
 
-![](https://activity-graph.herokuapp.com/graph?username=AbubakarShf&theme=react-dark&hide_border=true&area=true)
+## ![](https://activity-graph.herokuapp.com/graph?username=AbubakarShf&theme=react-dark&hide_border=true&area=true)
 
-<!--
-**AbubakarShf/AbubakarShf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+---
 
- 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
-->
+### I am AbubakarShf. I am a third-year undergraduate student at National Textile University. I am an aspiring Junior Junior web Developer at EESTONE. My other interests aside from web Dev are Backend Development, DevOps and Flutter.
