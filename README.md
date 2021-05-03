@@ -31,8 +31,6 @@ and Mern Stack.</li>
 <li>🎉 Fun Fact: 我想学中文。</li>
 </ul>
 
----
-
 <!--START_SECTION:Abubakar-->
 <!--END_SECTION:Abubakar-->
 <!-- <p align="center" height='200px'><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarshf&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="AbubakarShf"/> </p> -->
