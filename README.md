@@ -39,7 +39,7 @@ and Mern Stack.</li>
 &nbsp;
 <div align="center">
 
-# [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=zyppyukmmmxft960nxzzv1al0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default)]]
 
 <div>
 <p align="center">
