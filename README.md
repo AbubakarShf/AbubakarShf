@@ -31,7 +31,7 @@ and Mern Stack.</li>
 <li>🎉 Fun Fact: 我想学中文。</li>
 </ul>
 
-<br></br>
+---
 
 <!--START_SECTION:Abubakar-->
 <!--END_SECTION:Abubakar-->
