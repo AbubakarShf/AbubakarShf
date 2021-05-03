@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Hello, I am AbubakarShf
+
+![](https://activity-graph.herokuapp.com/graph?username=AbubakarShf&theme=react-dark&hide_border=true&area=true)
+
 <!--
 **AbubakarShf/AbubakarShf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
