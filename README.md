@@ -7,6 +7,8 @@
 <!-- --- -->
 
 <br></br>
+
+<div>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## About
@@ -15,6 +17,8 @@ I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freela
 I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [EESTONE](https://www.ee-stone.com/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+<div>
 
 <ul>
 <li>🧐 Learning about serverless architectures, distributed systems, and Mern Stack.</li>
