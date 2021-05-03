@@ -32,3 +32,21 @@ and Mern Stack.</li>
 </ul>
 
 <br></br>
+
+<!--START_SECTION:Abubakar-->
+<!--END_SECTION:Abubakar-->
+<p align="center" height='130px'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarshf&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="AbubakarShf"/> </p>
+<h3 align="center">🎧 I'm currently vibing to</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" alt="spotify"/></p>
+
+<p align="center">
+<a href="https://codesandbox.io/u/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="AbubakarShf" height="22" width="22" /></a>
+<a href="https://wa.me/923216022930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="AbubakarShf" height="22" width="22" /></a>
+<!-- <a href="https://dev.to/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
+<!-- <a href="https://twitter.com/0x00CCSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
+<a href="https://www.linkedin.com/in/abubakar-shf-57097b181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AbubakarShf" height="22" width="22" /></a>
+<a href="https://stackoverflow.com/users/15432363/abubakar-shafique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="AbubakarShf" height="22" width="22" /></a>
+<!-- <a href="https://www.reddit.com/user/dannychukz15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
+<!-- <a href="https://t.me/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
+<!-- <a href="https://instagram.com/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
+</p>
