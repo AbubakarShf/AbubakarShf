@@ -36,9 +36,20 @@ and Mern Stack.</li>
 <!--START_SECTION:Abubakar-->
 <!--END_SECTION:Abubakar-->
 <!-- <p align="center" height='200px'><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarshf&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="AbubakarShf"/> </p> -->
+<<<<<<< HEAD
+<h2 align="center">🎧 I'm currently vibing to</h2>
+&nbsp;
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+=======
 <h3 align="center">🎧 I'm currently vibing to</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default" alt="spotify"/></p>
+>>>>>>> 1551da3ad6cbc6bf353c8a5aec0f359615bb42bd
 
+ <!-- <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" alt="spotify"/>
+  -->
+<div>
 <p align="center">
 <a href="https://codesandbox.io/u/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="AbubakarShf" height="22" width="22" /></a>
 <a href="https://wa.me/923216022930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="AbubakarShf" height="22" width="22" /></a>
