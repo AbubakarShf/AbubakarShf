@@ -7,6 +7,7 @@
 <!-- --- -->
 
 <br></br>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## About
 
@@ -18,7 +19,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <ul>
 <li>🧐 Learning about serverless architectures, distributed systems, and Mern Stack.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AbubakarShf">Github</a>.</li>
+<li>🥅 2021 Goals: Contribute more to Open Source projects</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects</li>
+<li>🌐 Visit my <a href="">porfolio</a> website for complete background and contact.</li>
 <li>💬 Ask me about Web Development</li>
 <li>📫 How to reach me:
 <a href="https://www.facebook.com/abubakar.jutt.5283/">Facebook</a>
