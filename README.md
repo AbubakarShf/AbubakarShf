@@ -35,7 +35,7 @@ and Mern Stack.</li>
 
 <!--START_SECTION:Abubakar-->
 <!--END_SECTION:Abubakar-->
-<p align="center" height='130px'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarshf&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="AbubakarShf"/> </p>
+<p align="center" height='200px' width='500px'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarshf&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="AbubakarShf"/> </p>
 <h3 align="center">🎧 I'm currently vibing to</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" alt="spotify"/></p>
 
