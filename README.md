@@ -9,7 +9,7 @@
 <br></br>
 
 <div>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img style="margin-top:5px" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## About
 
