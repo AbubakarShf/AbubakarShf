@@ -23,7 +23,7 @@ and Mern Stack.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AbubakarShf"   target="_blank">Github</a>.</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects</li>
-<li>🌐 Visit my <a href="">porfolio</a> website for complete background and contact.</li>
+<li>🌐 Visit my <a href="#">porfolio</a> website for complete background and contact.</li>
 <li>💬 Ask me about Web Development</li>
 <li>📫 How to reach me:
 <a href="https://www.facebook.com/abubakar.jutt.5283/">Facebook</a>
