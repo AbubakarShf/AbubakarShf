@@ -6,10 +6,9 @@
 
 <!-- --- -->
 
-<br></br>
 &nbsp;
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-&nbsp;
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="300"/>
 
 ## About
 
