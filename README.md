@@ -38,8 +38,8 @@ and Mern Stack.</li>
 <h2 align="center">🎧 I'm currently vibing to</h2>
 &nbsp;
 <div align="center">
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=zyppyukmmmxft960nxzzv1al0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default)]]
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&redirect=true)
 
 <div>
 <p align="center">
