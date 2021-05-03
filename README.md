@@ -30,3 +30,10 @@ and Mern Stack.</li>
 </li>
 <li>🎉 Fun Fact: 我想学中文。</li>
 </ul>
+
+<br></br>
+
+## Statistics
+
+<br></br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarshf&show_icons=true)
