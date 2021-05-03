@@ -4,7 +4,11 @@
 
 ## ![](https://activity-graph.herokuapp.com/graph?username=AbubakarShf&theme=react-dark&hide_border=true&area=true)
 
----
+<!-- --- -->
+
+<br></br>
+
+## About
 
 ---
 
