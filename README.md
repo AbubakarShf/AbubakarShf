@@ -18,7 +18,7 @@ I am a third-year undergraduate student at [National Textile University](https:/
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <ul>
-<li>🧐 Learning about serverless architectures, distributed systems, &nbsp;
+<li>🧐 Learning about serverless architectures, distributed systems, tensorflow 
 and Mern Stack.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AbubakarShf"   target="_blank">Github</a>.</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
