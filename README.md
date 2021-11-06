@@ -13,7 +13,7 @@
 ## About
 
 I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
-I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [EESTONE](https://www.ee-stone.com/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
+I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [GeekGiants](https://www.GeekGiants.net/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -52,5 +52,5 @@ and Mern Stack.</li>
 <a href="https://stackoverflow.com/users/15432363/abubakar-shafique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="AbubakarShf" height="22" width="22" /></a>
 <!-- <a href="https://www.reddit.com/user/dannychukz15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
 <!-- <a href="https://t.me/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
-<!-- <a href="https://instagram.com/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
+<!-- <a href="https://www.instagram.com/abubakar.shf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
 </p>
